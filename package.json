@@ -1,0 +1,29 @@
+{
+  "name": "hulk-editor",
+  "version": "0.2.0",
+  "description": "Hulk is an in-browser JSON editor.",
+  "main": "hulk.js",
+  "directories": {
+    "example": "example",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "open tests/test.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinburke/hulk.git"
+  },
+  "keywords": [
+    "JSON",
+    "editor",
+    "in-browser",
+    "hulk"
+  ],
+  "author": "Kevin Burke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinburke/hulk/issues"
+  },
+  "homepage": "https://github.com/kevinburke/hulk#readme"
+}
